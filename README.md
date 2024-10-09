@@ -1,6 +1,5 @@
 👋  &nbsp; Hi, I’m @frantrombotto <br>
-👀  &nbsp; I’m a software engineer, interested mostly in back-end development <br>
-🌱  &nbsp; I’m currently learning about blockchain, solidity and smart contracts.<br>
+👀  &nbsp; I’m a software engineer, mostly experienced in back-end development <br>
 📫  &nbsp; You can reach me on [linkedin](https://www.linkedin.com/in/franco-trombotto)
 
 <!---
